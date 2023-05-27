@@ -41726,9 +41726,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-1 {
-  font-size: 1.125rem;
-  font-family: AvenirLT35Light;
   font-weight: 700;
+  font-family: AvenirLT35Light;
+  font-size: 1.125rem;
   text-transform: uppercase;
 }
 
