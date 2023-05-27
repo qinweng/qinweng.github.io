@@ -41934,12 +41934,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 .u-footer .u-sheet-1 {
-  min-height: 134px;
-}
-
-.u-footer .u-text-1 {
-  font-family: AvenirLT35Light;
-  margin: 26px 118px 0 0;
+  min-height: 86px;
 }
 
 .u-footer .u-social-icons-1 {
@@ -41948,7 +41943,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 74px;
   min-width: 42px;
   white-space: nowrap;
-  margin: 26px auto 22px;
+  margin: 27px auto;
 }
 
 .u-footer .u-icon-1 {
@@ -41963,29 +41958,24 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 131px;
   }
 
-  .u-footer .u-text-1 {
-    margin-top: 29px;
-    margin-right: 0;
-  }
-
   .u-footer .u-social-icons-1 {
-    margin-top: -14px;
+    margin-top: 70px;
     margin-bottom: 29px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-social-icons-1 {
-    margin-top: 0;
+    margin-top: 85px;
     margin-bottom: 15px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
-    min-height: 134px;
+    min-height: 86px;
   }
 
   .u-footer .u-social-icons-1 {
-    margin-top: 12px;
+    margin-top: 91px;
     margin-bottom: 16px;
   }
 }
@@ -41997,7 +41987,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-social-icons-1 {
     height: 35px;
     width: 80px;
-    margin-top: 5px;
+    margin-top: 108px;
     margin-bottom: 5px;
   }
 }
