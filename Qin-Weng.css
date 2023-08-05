@@ -74,20 +74,59 @@
 
 .u-section-3 .u-text-1 {
   margin: 0 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-bottom: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
 }.u-section-4 .u-sheet-1 {
-  min-height: 845px;
+  min-height: 1190px;
   margin-bottom: 0;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 60px 0;
+  margin: 61px 0 165px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1227px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+    margin-bottom: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
 }.u-section-5 .u-sheet-1 {
   min-height: 893px;
   margin-bottom: 0;
 }
 
 .u-section-5 .u-text-1 {
-  margin: 61px 0 60px;
+  margin: 0 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-text-1 {
+    width: auto;
+    margin-bottom: 100px;
+  }
 }@font-face {
   font-family: 'AvenirLT35Light';
   font-style: normal;
